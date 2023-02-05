@@ -1,25 +1,15 @@
 # Code Refactor 
 
 ## Description
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This website advertises the services provided by a digital marketing company. The website has a navigation bar to locate content easily and is organized to be accessible for people using assistive technologies.
 
 ## Installation
 
 N/A
 
 ## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+Click a link in the navigation bar to go to the corresponding content. Use assistive technology to hear image descriptions. You can also use DevTools console to locate image descriptions by pressing Control+Shift+I (Windows) or Command+Option+I (MacOS). Inspect element by pressing Control+Shift+C (windows) or Command+Shift+C (MacOS) and click on desired image to view the image description.
+![alt text](assets/images/webpage-screenshot.png)
 
 ## Credits
 
@@ -28,3 +18,4 @@ N/A
 ## License
 
 N/A
+
