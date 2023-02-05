@@ -1,4 +1,4 @@
-/*organized to match HTML*/
+/*organized to correspond with HTML*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -50,7 +50,7 @@ a {
     background-position: center;
 }
 
-/*BODY, CONTENT*/
+/*BODY (CONTENT SECTIONS)*/
 p {
     font-size: 16px;
 }
@@ -75,14 +75,13 @@ body {
     margin-left: 20px;
 }
 
-/*consolidated, adjusted height from 300 to 322 so bottom of content layout
-aligns with bottom of benefits layout*/
+/*consolidated*/
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
-    height: 322px;
+    height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
@@ -103,7 +102,7 @@ aligns with bottom of benefits layout*/
     font-size: 36px;
 }
 
-/*BENEFITS*/
+/*BENEFITS (ASIDE)*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
