@@ -43,11 +43,15 @@ a {
 /*COVER IMG*/
 .hero {
     height: 800px;
-    width: 100%;
+    width: auto;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+.cover-photo {
+    visibility: hidden;
 }
 
 /*BODY (CONTENT SECTIONS)*/
