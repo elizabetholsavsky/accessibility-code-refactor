@@ -1,4 +1,4 @@
-# Code Refactor 
+# Accessibility Code Refactor 
 
 ## Description
 This webpage was created as part of a UT Full Stack Flex Coding Bootcamp challenge. I modified starter code to improve readability, search engine optimization, and accessibility for people using assistive technologies.
