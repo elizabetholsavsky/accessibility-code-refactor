@@ -1,5 +1,9 @@
-# Accessibility Code Refactor 
-https://elizabetholsavsky.github.io/module1_challenge/
+<div align="center">
+  
+  # Accessibility Code Refactor 
+  https://elizabetholsavsky.github.io/module1_challenge/
+
+</div>
 
 ## Description
 This webpage was created as part of a UT Full Stack Flex Coding Bootcamp challenge. I modified starter code to improve readability, search engine optimization, and accessibility for people using assistive technologies.
